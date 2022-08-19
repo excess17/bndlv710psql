@@ -1,0 +1,13 @@
+code: bndlv710psql
+description: This is the bndlv710psql bundle
+
+components:
+  plugins:
+    - plugins/bndlv710psql-plugin.yaml
+
+  widgets:
+    - ui/widgets/v-710-psql/tableWidget/v-710-psql-table-widget-descriptor.yaml
+    - ui/widgets/v-710-psql/detailsWidget/v-710-psql-details-widget-descriptor.yaml
+    - ui/widgets/v-710-psql/formWidget/v-710-psql-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
