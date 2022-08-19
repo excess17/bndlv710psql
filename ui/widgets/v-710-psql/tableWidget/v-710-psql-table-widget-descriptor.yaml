@@ -1,0 +1,6 @@
+code: v-710-psql-table-widget
+titles:
+  en: V 710 Psql Table Widget
+  it: V 710 Psql Table Widget
+group: free
+customUiPath: v-710-psql-table-widget.ftl

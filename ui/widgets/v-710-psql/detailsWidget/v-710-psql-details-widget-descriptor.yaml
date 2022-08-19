@@ -1,0 +1,6 @@
+code: v-710-psql-details-widget
+titles:
+  en: V 710 Psql Details Widget
+  it: V 710 Psql Details Widget
+group: free
+customUiPath: v-710-psql-details-widget.ftl

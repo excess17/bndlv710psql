@@ -1,0 +1,6 @@
+code: v-710-psql-form-widget
+titles:
+  en: V 710 Psql Form Widget
+  it: V 710 Psql Form Widget
+group: free
+customUiPath: v-710-psql-form-widget.ftl
